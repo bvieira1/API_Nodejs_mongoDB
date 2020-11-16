@@ -1,0 +1,21 @@
+[{
+        "nome": "Cristiano Borges",
+        "email": "cristianovieirati@gmail.com",
+        "senha": "bvieira1"
+    },
+    {
+        "nome": "Vania Raskopf",
+        "email": "vania@teste.com",
+        "senha": "bvieira1"
+    },
+    {
+        "nome": "Omar Lopes",
+        "email": "omar@teste.com",
+        "senha": "123"
+    },
+    {
+        "nome": "Mikael Lopes",
+        "email": "mikael@teste.com",
+        "senha": "123"
+    }
+]
